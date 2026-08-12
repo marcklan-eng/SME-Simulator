@@ -1,0 +1,16 @@
+BILLING SIMULATOR — FINAL COMPLETE BUILD
+
+Open index.html after unzipping.
+
+Instructor/Admin:
+Courses, Activities, Simulations, Patients, Rubrics, Grading, Competencies,
+Reports, Audit Log, and Organization management.
+
+Simulation:
+A/R Queue → Billing Chart → Evidence → Unfolding Events → Decision →
+Documentation → Submission → Grading/Reporting.
+
+The final build records major actions, calculates a prototype score, stores attempts,
+tracks simulation events, and exports JSON data.
+
+Prototype data is stored in browser localStorage. Do not enter real PHI.
